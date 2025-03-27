@@ -1,6 +1,6 @@
-# 📚 ScholarLens: AI Research Assistant
+# Raven: AI Research Assistant
 
-ScholarLens is an intelligent research assistant that helps researchers explore academic papers and get AI-powered insights about scientific topics. This tool combines state-of-the-art AI technologies to make research more efficient and accessible.
+Raven is an intelligent research assistant that helps researchers explore academic papers and get AI-powered insights about scientific topics. This tool combines state-of-the-art AI technologies to make research more efficient and accessible.
 
 ##  Features
 
@@ -36,7 +36,7 @@ ScholarLens is an intelligent research assistant that helps researchers explore 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/its308/ScholarLens.git
+git clone https://github.com/0somesh/Raven.git
 cd ScholarLens
 ```
 
@@ -125,9 +125,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with Streamlit, Hugging Face Transformers, and Google Gemini
 - Uses the ArXiv API for academic paper retrieval
-
----
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/50435234/84d4317c-5a21-450b-ac8b-e2b9ff0af3d7/paste.txt
-[2] https://github.com/its308/ScholarLens
 
