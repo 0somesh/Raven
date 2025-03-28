@@ -117,7 +117,7 @@ streamlit run app.py
 - API rate limits may affect performance during heavy usage
 - Large language models may occasionally generate inaccurate responses
 
-## License
+## MIT License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
